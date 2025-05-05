@@ -10,6 +10,9 @@ In this version, you'll find the initial setup and structure to get you started:
 
 ## 🧩 How the game works:
 
+![Screen Recording 2025-01-07 at 1 53 55 PM](https://github.com/user-attachments/assets/55eb9431-0fc2-4450-98dc-b0659b3dd3f8)
+
+
 The player taps on a tube to select the top ball and then taps another tube to move it, following specific rules:
 
 * Only one ball can move at a time.
