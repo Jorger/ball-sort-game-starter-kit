@@ -25,9 +25,16 @@ In the full Udemy course, you’ll learn how to build this game step by step usi
 
 This repo contains only the starter setup — the full logic and features are built throughout the course.
 
-🔗 [Watch the completed game in action](https://ball-sort-game-course.vercel.app/)
-🎓 Enroll in the course to unlock the full code and all lessons
+* 🔗 [Watch the completed game in action](https://ball-sort-game-course.vercel.app/)
+* 🎓 Enroll in the course to unlock the full code and all lessons
 
 Happy coding! 💡
+
+# 👨🏻‍💻 Autor.
+
+**Jorge Rubiano**
+
+* https://bio.link/jorgerub
+
 
 
