@@ -2,7 +2,7 @@
 
 ![scree-curso-ball-sort](https://github.com/user-attachments/assets/add1cd2b-d8ed-4af9-b478-dcb3a7e6083c)
 
-Welcome to the Ball Sort Puzzle project!
+Welcome to the course **[Ball Sort Puzzle Using ReactJS Step-by-Step](https://www.udemy.com/course/ball-sort-puzzle-using-reactjs-step-by-step/)**
 
 This repository contains the starter code used to build the Ball Sort Puzzle game with ReactJS — a fun and challenging logic game where players sort colored balls into tubes.
 
@@ -26,7 +26,7 @@ In the full Udemy course, you’ll learn how to build this game step by step usi
 This repo contains only the starter setup — the full logic and features are built throughout the course.
 
 * 🔗 [Watch the completed game in action](https://ball-sort-game-course.vercel.app/)
-* 🎓 Enroll in the course to unlock the full code and all lessons
+* 🎓 [Enroll in the course to unlock the full code and all lessons](https://www.udemy.com/course/ball-sort-puzzle-using-reactjs-step-by-step/)
 
 Happy coding! 💡
 
